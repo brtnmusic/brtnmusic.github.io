@@ -1,2 +1,2 @@
-# brtnmusic.github.io
-BRTN website
+# BRTN
+https://brtnmusic.com
